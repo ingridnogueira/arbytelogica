@@ -84,7 +84,7 @@ if (respostaParaSalvar == true) { /* condição para executar o "salvamento" ou 
     })
     
 }else{
-    console.log("Volte sempre!") // se o usuário não quiser salvar o arquivo JSON
+    console.log("Volte sempre!") // se o usuário não quiser salvar o arquivo JSON, aparece uma mensagem no console
 }
 }
 
